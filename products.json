@@ -29,7 +29,7 @@
         "fields": {
           "title": "Стандартная кровать",
           "price": 3250.99,
-          "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
+          "image": { "fields": { "file": { "url": "./product-4.jpeg" } } }
         }
       },
       {
