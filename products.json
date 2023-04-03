@@ -5,7 +5,7 @@
         "fields": {
           "title": "Двухспальная кровать",
           "price": 5000.99,
-          "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+          "image": { "fields": { "file": { "url": "./product-1.jpeg" } } }
         }
       },
       {
@@ -13,7 +13,7 @@
         "fields": {
           "title": "Панельная кровать",
           "price": 3750.99,
-          "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
+          "image": { "fields": { "file": { "url": "./product-2.jpeg" } } }
         }
       },
       {
@@ -21,7 +21,7 @@
         "fields": {
           "title": "Одиночная панельная кровать",
           "price": 5599.99,
-          "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
+          "image": { "fields": { "file": { "url": "./product-3.jpeg" } } }
         }
       },
       {
@@ -37,7 +37,7 @@
         "fields": {
           "title": "Холодильник",
           "price": 3375.99,
-          "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
+          "image": { "fields": { "file": { "url": "./product-5.jpeg" } } }
         }
       },
       {
@@ -45,7 +45,7 @@
         "fields": {
           "title": "Комод",
           "price": 2150.99,
-          "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
+          "image": { "fields": { "file": { "url": "./product-6.jpeg" } } }
         }
       },
       {
@@ -53,7 +53,7 @@
         "fields": {
           "title": "Диван",
           "price": 6345.99,
-          "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+          "image": { "fields": { "file": { "url": "./product-7.jpeg" } } }
         }
       },
       {
@@ -61,7 +61,7 @@
         "fields": {
           "title": "Стол",
           "price": 1685.99,
-          "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+          "image": { "fields": { "file": { "url": "./product-8.jpeg" } } }
         }
       }
     ]
